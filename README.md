@@ -1,1 +1,2 @@
 # Practice
+знакомство с GitHub
